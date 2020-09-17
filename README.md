@@ -1,7 +1,8 @@
 ### About Me
 - 🔭 I’m currently working on a few future tools
 - 🌱 I’m currently getting proficient at python
-- ⚡ Fun fact: I <3 coding & ass
+- ⚡ Fun fact: I <3 coding & video games.
+- 🏆 Owner of Mern.cc
 
 ### My socials/Servers
 * <a href="https://discord.com/users/437448160797786122">My Personal Discord</a>
